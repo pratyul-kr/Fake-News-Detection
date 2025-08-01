@@ -49,9 +49,13 @@ Each contains news articles with title, text, subject, and date
 Model	Accuracy	Precision	Recall	F1 Score
 
 Naive Bayes	✅	✅	✅	✅
+
 Decision Tree	✅	✅	✅	✅
+
 Passive Aggressive	✅	✅	✅	✅
+
 Random Forest	✅	✅	✅	✅
+
 Logistic Regression	✅	✅	✅	✅
 
 Metrics are plotted for comparison.
