@@ -1,8 +1,8 @@
-📰 Fake News Detection using Machine Learning
+# 📰 Fake News Detection using Machine Learning
 
 This project applies various machine learning models to detect fake news from real news using natural language processing (NLP) and classification techniques.
 
-🔍 Project Objective
+# 🔍 Project Objective
 
 To build a fake news classifier using multiple ML algorithms such as:
 
@@ -20,7 +20,7 @@ And compare their performance using metrics like accuracy, precision, recall, an
 
 ---
 
-⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 Python
 
@@ -36,15 +36,15 @@ TF-IDF Vectorization
 
 ---
 
-📁 Dataset
+# 📁 Dataset
 
-True.csv and Fake.csv (combined into a labeled dataset)
+True.csv and False.csv (combined into a labeled dataset)
 
 Each contains news articles with title, text, subject, and date
 
 ---
 
-🧠 Models Trained
+# 🧠 Models Trained
 
 Model	Accuracy	Precision	Recall	F1 Score
 
@@ -62,7 +62,7 @@ Metrics are plotted for comparison.
 
 ---
 
-📈 Visualizations
+# 📈 Visualizations
 
 Confusion Matrices for each model
 
@@ -72,14 +72,15 @@ Combined comparison chart using pandas + Matplotlib
 
 ---
 
-🧪 Example Prediction
+# 🧪 Example Prediction
 
 predict_title("Donald Trump Sends Out Embarrassing New Year")
-# Output: The news is likely fake.
+
+Output: The news is likely fake.
 
 ---
 
-🚀 How to Run
+# 🚀 How to Run
 
 1. Clone the repo or download the notebook.
 
